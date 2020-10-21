@@ -6,4 +6,3 @@ Action:
   - Implementation
   - Refactoring
   - Bugfix
-  - Modification
